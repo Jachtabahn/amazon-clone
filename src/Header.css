@@ -1,0 +1,9 @@
+.Header {
+    background-color: #0f0f0f;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Header img {
+    width: 100px;
+}
